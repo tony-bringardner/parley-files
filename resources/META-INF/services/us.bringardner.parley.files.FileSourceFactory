@@ -17,4 +17,5 @@
 ## under the License.
 ##
 
-us.bringardner.parley.files.java.file.FileSourceFileSystemProvider
+us.bringardner.parley.files.fileproxy.FileProxyFactory
+us.bringardner.parley.files.memory.MemoryFileSourceFactory
